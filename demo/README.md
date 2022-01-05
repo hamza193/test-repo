@@ -1,7 +1,8 @@
-# test 
+# demo
+some text 
+some other text
 
+#local developement
 
-sdfsdfsdf
-sdfds
+1. open index.html in ur phone
 
-part2 
